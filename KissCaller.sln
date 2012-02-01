@@ -1,0 +1,45 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KissCaller.Web", "KissCaller.Web\KissCaller.Web.csproj", "{CEB91DCB-0616-4F01-936E-E7784606CFBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KissCaller.SocketIo", "KissCaller.SocketIo\KissCaller.SocketIo.csproj", "{886E8CB4-32DE-4CF2-A6BB-A145FF4B303E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KissCaller.Business", "KissCaller.Business\KissCaller.Business.csproj", "{C2B12DBA-5893-44AB-9805-6213DB44620B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		DebugILMerge|Any CPU = DebugILMerge|Any CPU
+		Release|Any CPU = Release|Any CPU
+		ReleaseILMerge|Any CPU = ReleaseILMerge|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEB91DCB-0616-4F01-936E-E7784606CFBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEB91DCB-0616-4F01-936E-E7784606CFBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEB91DCB-0616-4F01-936E-E7784606CFBF}.DebugILMerge|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEB91DCB-0616-4F01-936E-E7784606CFBF}.DebugILMerge|Any CPU.Build.0 = Debug|Any CPU
+		{CEB91DCB-0616-4F01-936E-E7784606CFBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEB91DCB-0616-4F01-936E-E7784606CFBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEB91DCB-0616-4F01-936E-E7784606CFBF}.ReleaseILMerge|Any CPU.ActiveCfg = Release|Any CPU
+		{CEB91DCB-0616-4F01-936E-E7784606CFBF}.ReleaseILMerge|Any CPU.Build.0 = Release|Any CPU
+		{886E8CB4-32DE-4CF2-A6BB-A145FF4B303E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{886E8CB4-32DE-4CF2-A6BB-A145FF4B303E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{886E8CB4-32DE-4CF2-A6BB-A145FF4B303E}.DebugILMerge|Any CPU.ActiveCfg = DebugILMerge|Any CPU
+		{886E8CB4-32DE-4CF2-A6BB-A145FF4B303E}.DebugILMerge|Any CPU.Build.0 = DebugILMerge|Any CPU
+		{886E8CB4-32DE-4CF2-A6BB-A145FF4B303E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{886E8CB4-32DE-4CF2-A6BB-A145FF4B303E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{886E8CB4-32DE-4CF2-A6BB-A145FF4B303E}.ReleaseILMerge|Any CPU.ActiveCfg = ReleaseILMerge|Any CPU
+		{886E8CB4-32DE-4CF2-A6BB-A145FF4B303E}.ReleaseILMerge|Any CPU.Build.0 = ReleaseILMerge|Any CPU
+		{C2B12DBA-5893-44AB-9805-6213DB44620B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2B12DBA-5893-44AB-9805-6213DB44620B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2B12DBA-5893-44AB-9805-6213DB44620B}.DebugILMerge|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2B12DBA-5893-44AB-9805-6213DB44620B}.DebugILMerge|Any CPU.Build.0 = Debug|Any CPU
+		{C2B12DBA-5893-44AB-9805-6213DB44620B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2B12DBA-5893-44AB-9805-6213DB44620B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2B12DBA-5893-44AB-9805-6213DB44620B}.ReleaseILMerge|Any CPU.ActiveCfg = Release|Any CPU
+		{C2B12DBA-5893-44AB-9805-6213DB44620B}.ReleaseILMerge|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
